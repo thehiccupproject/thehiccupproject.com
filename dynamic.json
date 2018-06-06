@@ -1,12 +1,12 @@
 {
   "content": {
     "news": {
-      "markdown": "\nOur Spring Tour 2018 of _May-We-Go-Round?_ and _\"It's Okay, I'm Dealing With It.\"_ has come to an end! You can read a review from our performance in Exeter by clicking the link below: \n\n**[Review from Dance in Devon](http://danceindevon.org.uk/okay-im-dealing-hiccup-project-dance-review-daisy-harrison/?platform=hootsuite)**\n\n\n\n**More exciting news to be announced soon...watch this space!**\n\n",
-      "html": "<p>Our Spring Tour 2018 of <em>May-We-Go-Round?</em> and <em>“It’s Okay, I’m Dealing With It.”</em> has come to an end! You can read a review from our performance in Exeter by clicking the link below: </p>\n<p><strong><a href=\"http://danceindevon.org.uk/okay-im-dealing-hiccup-project-dance-review-daisy-harrison/?platform=hootsuite\">Review from Dance in Devon</a></strong></p>\n<p><strong>More exciting news to be announced soon…watch this space!</strong></p>\n"
+      "markdown": "We are currently in creation for our new work which we will preview in Bristol in November. Keep your eyes peeled for more info...\n\n",
+      "html": "<p>We are currently in creation for our new work which we will preview in Bristol in November. Keep your eyes peeled for more info…</p>\n"
     },
     "events": {
-      "markdown": "Performance Dates to be announced soon, stay tuned!",
-      "html": "<p>Performance Dates to be announced soon, stay tuned!</p>\n"
+      "markdown": "**_\"It's Okay, I'm Dealing With It.\"_** \n 28th November: The Old Market, Brighton **[Tickets](http://theoldmarket.com/shows/okay-im-dealing/)**\n\n_More performance dates to be announced soon, stay tuned!_",
+      "html": "<p><strong><em>“It’s Okay, I’m Dealing With It.”</em></strong><br> 28th November: The Old Market, Brighton <strong><a href=\"http://theoldmarket.com/shows/okay-im-dealing/\">Tickets</a></strong></p>\n<p><em>More performance dates to be announced soon, stay tuned!</em></p>\n"
     }
   }
 }
