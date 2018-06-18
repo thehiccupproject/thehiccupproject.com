@@ -1,12 +1,12 @@
 {
   "content": {
     "news": {
-      "markdown": "We are currently in creation for our new work which we will preview in Bristol in November. Keep your eyes peeled for more info...\n\n",
-      "html": "<p>We are currently in creation for our new work which we will preview in Bristol in November. Keep your eyes peeled for more info…</p>\n"
+      "markdown": "**BRAND NEW SHOW!** \n\nWe are currently in creation for our new work  _Lovely Girls_ which will preview 7th/8th November at The Wardrobe Theatre in Bristol. Tickets are on Sale now along with tickets for our open Level Workshop @ The Wardrobe Theatre, 7th November. Space are limited so book yours now!\n\n",
+      "html": "<p><strong>BRAND NEW SHOW!</strong> </p>\n<p>We are currently in creation for our new work  <em>Lovely Girls</em> which will preview 7th/8th November at The Wardrobe Theatre in Bristol. Tickets are on Sale now along with tickets for our open Level Workshop @ The Wardrobe Theatre, 7th November. Space are limited so book yours now!</p>\n"
     },
     "events": {
-      "markdown": "**_\"It's Okay, I'm Dealing With It.\"_** \n 28th November: The Old Market, Brighton **[Tickets](http://theoldmarket.com/shows/okay-im-dealing/)**\n\n_More performance dates to be announced soon, stay tuned!_",
-      "html": "<p><strong><em>“It’s Okay, I’m Dealing With It.”</em></strong><br> 28th November: The Old Market, Brighton <strong><a href=\"http://theoldmarket.com/shows/okay-im-dealing/\">Tickets</a></strong></p>\n<p><em>More performance dates to be announced soon, stay tuned!</em></p>\n"
+      "markdown": "\n**_Lovely Girls_** \n7th November: The Wardrobe Theatre, BRISTOL  **[Tickets](http://thewardrobetheatre.com/livetheatre/lovely-girls/)**\n\n**_Lovely Girls_** \n8th November: The Wardrobe Theatre, BRISTOL  **[Tickets](http://thewardrobetheatre.com/livetheatre/lovely-girls/)**\n\n**_\"It's Okay, I'm Dealing With It.\"_** \n 28th November: The Old Market, BRIGHTON **[Tickets](http://theoldmarket.com/shows/okay-im-dealing/)**\n\n_More performance dates to be announced soon, stay tuned!_",
+      "html": "<p><strong><em>Lovely Girls</em></strong><br>7th November: The Wardrobe Theatre, BRISTOL  <strong><a href=\"http://thewardrobetheatre.com/livetheatre/lovely-girls/\">Tickets</a></strong></p>\n<p><strong><em>Lovely Girls</em></strong><br>8th November: The Wardrobe Theatre, BRISTOL  <strong><a href=\"http://thewardrobetheatre.com/livetheatre/lovely-girls/\">Tickets</a></strong></p>\n<p><strong><em>“It’s Okay, I’m Dealing With It.”</em></strong><br> 28th November: The Old Market, BRIGHTON <strong><a href=\"http://theoldmarket.com/shows/okay-im-dealing/\">Tickets</a></strong></p>\n<p><em>More performance dates to be announced soon, stay tuned!</em></p>\n"
     }
   }
 }
